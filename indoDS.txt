@@ -1,0 +1,42 @@
+Info
+
+1-T-rex
+Força 21235
+Vita 18302
+Resis 690
+
+2-Pachy 
+Força 14838
+Vita 20702
+Resis 644
+
+3-Coel 
+Força 16793
+Vita 18747
+Resis 690
+
+4-Carno
+Força 20257
+Vita 15282
+Resis 598
+
+5-Brachy
+Força 13860
+Vita 21680
+Resis 460
+
+6-Anky 
+Força 12883
+Vita 21680
+Resis 391
+Armadura 258
+
+7-Centro
+Força 15815
+Vita 19725
+Resis 552
+
+8-Para 
+Força 17770
+Vita 17770
+Resis 644
